@@ -10,7 +10,7 @@ There are two posible ways for the game to run:
 - Everyone plays all the time, until one gets to a certain value when they lose, and everyone else win.
 - When someone gets a -1 (or gets to a certain value) they get eliminated and the game continues until only one player is left. That person is the winner.
 
-##Adaptation
+## Adaptation
 This code emulates that game by giving a random or chosen set of x amount of numbers as operands and a result, and after confirmation gives all the possible answer. I'm working on improving it and adding a Visual Interface (maybe with flipping cards?). It's a project I do in my free time so don't expect too quick of a progress. It also helos me learn new techniques for Python.
 
 ## Possible Variations
